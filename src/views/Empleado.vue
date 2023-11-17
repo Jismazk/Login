@@ -1,12 +1,12 @@
 <template>
 <div>
     <v-app>
-        <BarraAdmin></BarraAdmin>
+    <BarraAdmin></BarraAdmin>    
         
-        <div >
-        <h1>Registro</h1>
+        <v-main>
+        <h1>Cliente</h1>
         <TablasCliente></TablasCliente>
-        </div>
+        </v-main>
     </v-app>
 </div>
 </template>

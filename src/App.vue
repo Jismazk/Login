@@ -1,6 +1,7 @@
 <template>
   
-<Home></Home>
+<Empleado></Empleado>
+
 </template>
 
 <script setup>

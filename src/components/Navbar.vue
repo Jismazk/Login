@@ -3,7 +3,7 @@
   
     <v-container class="mx-auto d-flex align-center justify-center">
       
-     <v-app-bar-nav-icon class="black--text"></v-app-bar-nav-icon>
+     <v-app-bar-nav-icon class="black--text" style="background-color: black;"></v-app-bar-nav-icon>
 
       <v-btn class="d-none d-sm-flex" 
         v-for="link in links"

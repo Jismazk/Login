@@ -1,11 +1,9 @@
 <template>
     <div
-    class="d-flex justify-end  bg-surface-variant"
+    class=""
     >
-    <v-table
+    <v-table class="align-self-auto"
       fixed-header
-      height="300px"
-      
     >
       <thead>
         <tr>

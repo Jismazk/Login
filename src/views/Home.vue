@@ -3,9 +3,11 @@
   <v-app>
     <Navbar></Navbar>
     
-    <div>
+   <v-main>
     <RouterView ></RouterView>
-   </div>
+   </v-main>
+    
+   
   </v-app> 
   </div>
 </template>
