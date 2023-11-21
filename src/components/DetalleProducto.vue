@@ -4,9 +4,9 @@
     
    
        <v-container>
-    <v-img style="width: 400px; height: 400px;">
+    <v-img style="width: 400px; height: 400px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.mx%2FProteina-Total-5lb-2-7-capuchino%2Fdp%2FB0BL44BFQD&psig=AOvVaw2psApNju7tv_aWHv0LV_gN&ust=1700686003486000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi7xpr71YIDFQAAAAAdAAAAABAF">
     </v-img>
-    <v-img style="width: 400px; height: 400px;">
+    <v-img style="width: 400px; height: 400px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.mx%2FProteina-Total-5lb-2-7-capuchino%2Fdp%2FB0BL44BFQD&psig=AOvVaw2psApNju7tv_aWHv0LV_gN&ust=1700686003486000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi7xpr71YIDFQAAAAAdAAAAABAF">
     </v-img>
 </v-container> 
     

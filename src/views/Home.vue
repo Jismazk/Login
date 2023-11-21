@@ -4,7 +4,7 @@
     <Navbar></Navbar>
     
    <v-main>
-    <RouterView ></RouterView>  
+    <DetalleProducto></DetalleProducto>
    </v-main>
     
    
@@ -17,13 +17,15 @@
 import Navbar from '@/components/Navbar.vue';
 import Cliente from '@/components/Cliente.vue';
 import BarraAdmin from '@/components/BarraAdmin.vue';
+import DetalleProducto from '@/components/DetalleProducto.vue';
 
 export default{
   name : 'Home',
   components:{
     Navbar,
     Cliente,
-    BarraAdmin
+    BarraAdmin,
+    DetalleProducto
   }
 }
 </script>
