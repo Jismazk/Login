@@ -39,10 +39,10 @@
   </template>
   <script setup>
   const links = [
-  {text:'Promociones',route:"/Components/Cliente.vue"},
-      {text:'Promociones',route:"/TablasCliente"},
-      {text:'Promociones',route:"/dsfsfgsdf"},
-      {text:'Promociones',route:"/cliente"},
+  {text:'Producto',route:"/"},
+      {text:'Tablaclien',route:"/TablasCliente"},
+      {text:'dsdfsd',route:"/dsfsfgsdf"},
+      {text:'cli',route:"/cliente"},
       {text:'Picar',route:'/Denisse'}
   ]
   
@@ -52,13 +52,13 @@
   export default {
     data: () => ({
       links: [
-      {text:'Promociones',route:"/Components/Cliente.vue"},
-      {text:'Promociones',route:"/TablasCliente"},
-      {text:'Promociones',route:"/dsfsfgsdf"},
-      {text:'Promociones',route:"/cliente"},
+      {text:'Producto',route:"/"},
+      {text:'Tablaclien',route:"/TablasCliente"},
+      {text:'dssfsfd',route:"/dsfsfgsdf"},
+      {text:'cli',route:"/cliente"},
       {text:'Picar',route:'/Denisse'}
    
-      ],
+      ]
     }),
   }
   </script>

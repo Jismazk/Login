@@ -17,6 +17,7 @@
 import Navbar from '@/components/Navbar.vue';
 import Cliente from '@/components/Cliente.vue';
 import BarraAdmin from '@/components/BarraAdmin.vue';
+
 export default{
   name : 'Home',
   components:{
