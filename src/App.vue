@@ -1,7 +1,5 @@
 <template>
-  
-<Empleado></Empleado>
-
+ <RouterView></RouterView>
 </template>
 
 <script setup>

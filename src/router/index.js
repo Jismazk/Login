@@ -1,5 +1,6 @@
 // Composables
 import { createRouter, createWebHistory } from 'vue-router'
+import De
 
 const routes = [
   {
@@ -30,6 +31,16 @@ const routes = [
     path:'/dsfsfgsdf',
     name:'Tablasssssss',
     component: ()=>import('@/components/BarraAdmin.vue')
+  },
+  {
+    path:'/detalleProducto',
+    name:'dp',
+    component: ()=>import('@/components/DetalleProducto.vue')
+  },
+  {
+    path:'/Denisse',
+    name:'Deni',
+    component: () =>import('@/components/Deta')
   }
 ]
 
