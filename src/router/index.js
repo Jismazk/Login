@@ -1,6 +1,6 @@
 // Composables
 import { createRouter, createWebHistory } from 'vue-router'
-import De
+
 
 const routes = [
   {
@@ -40,8 +40,9 @@ const routes = [
   {
     path:'/Denisse',
     name:'Deni',
-    component: () =>import('@/components/Deta')
+    component: ()=> import('@/components/Detalle_contacto.vue')
   }
+  
 ]
 
 const router = createRouter({

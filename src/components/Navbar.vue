@@ -43,7 +43,7 @@
       {text:'Promociones',route:"/TablasCliente"},
       {text:'Promociones',route:"/dsfsfgsdf"},
       {text:'Promociones',route:"/cliente"},
-      {text:'Promociones',route:"/cliente"}
+      {text:'Picar',route:'/Denisse'}
   ]
   
   </script>
@@ -56,6 +56,7 @@
       {text:'Promociones',route:"/TablasCliente"},
       {text:'Promociones',route:"/dsfsfgsdf"},
       {text:'Promociones',route:"/cliente"},
+      {text:'Picar',route:'/Denisse'}
    
       ],
     }),
