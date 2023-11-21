@@ -4,7 +4,7 @@
     <Navbar></Navbar>
     
    <v-main>
-    <RouterView ></RouterView>
+    <RouterView ></RouterView>  
    </v-main>
     
    

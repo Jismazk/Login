@@ -37,10 +37,10 @@ const routes = [
     name:'dp',
     component: ()=>import('@/components/DetalleProducto.vue')
   },
-  {
-    path:'/Denisse',
-    name:'Deni',
-    component: ()=> import('@/components/Detalle_contacto.vue')
+  {// se crea una ruta en el array de routes que se encuentra en el index.js de la carpeta router
+    path:'/Denisse',//aqui ira lo que aparecera en la url
+    name:'Deni',//si quieres ponerle nombre a esta ruta para luego llamarla lo puedes hacer sino name no es necesario
+    component: ()=> import('@/components/Detalle_contacto.vue')//esacibes esto para importar el componente y etre los parentesis pones la ruta
   }
   
 ]
